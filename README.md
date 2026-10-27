@@ -24,7 +24,7 @@
 - 📸 Capture d'écran nuage **droite (linéaire)** : 🔴 LIEN OU IMAGE À REMPLIR  
 - 📸 Capture d'écran nuage **multi-zone (XOR)** : 🔴 LIEN OU IMAGE À REMPLIR  
 - 📸 Capture d'écran nuage **concentriques** : 🔴 LIEN OU IMAGE À REMPLIR  
-- *(Facultatif)* Test d'entraînement des fonctions logiques sur simulateur de perceptron : 🔴 LIEN OU IMAGE FACULTATIF  
+- 📸 Capture d'écran nuage **spirale** : 🔴 LIEN OU IMAGE À REMPLIR  
 
 ---
 
