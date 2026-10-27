@@ -9,7 +9,7 @@
 
 ## 🎚️ Intro NeuralNet (1 % - 📅 Remise le jour même du laboratoire)
 
-### 1. Activités initiatiques « A visual guide » (Jay Alammar) ou « Apprivoiser ton Phénix »
+### 1. Activités initiatiques « Train your dragon » (Jay Alammar) ou « Apprivoiser ton Phénix »
 - 📸 Capture d'écran *Train your dragon* (ou *1. Apprivoiser ton Phénix*) : 🔴 LIEN OU IMAGE À REMPLIR  
 - 📸 Capture d'écran *Automation* (ou *2. Automatisation*) : 🔴 LIEN OU IMAGE À REMPLIR  
 - 📸 Capture d'écran *Two* (ou *3. Et puis ils furent Deux*) : 🔴 LIEN OU IMAGE À REMPLIR  
